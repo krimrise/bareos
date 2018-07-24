@@ -16,7 +16,7 @@ if __name__ == '__main__':
     
     host = "localhost"
     dirname = "bareos-dir"
-    passwd = "Or4PAAjUTWnssNIHQi8Q4YxPgIm/hog8vn7i7/MhPkD4"
+    passwd = ""
     dir_port = 9101
     whereJobs = ""
     JobStatus = "R"
